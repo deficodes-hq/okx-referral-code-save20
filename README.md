@@ -116,3 +116,15 @@ Spotted outdated info? Open an issue with a link to the official OKX source.
 ## Disclaimer
 
 Not financial advice. Crypto assets are volatile. This repo is an independent reference and isn't affiliated with or endorsed by OKX. This is my referral code; I may receive a reward.
+
+
+## Other codes I share
+
+- **Hyperliquid** — referral code **AWD**: 4% off fees on your first $25M of volume → https://app.hyperliquid.xyz/join/AWD
+- **Hyperliquid** — referral code **COINGECKO**: 4% off fees on your first $25M of volume → https://app.hyperliquid.xyz/join/COINGECKO
+- **Crypto.com** — referral code **AWD**: sign-up reward of up to $75 in CRO (conditions apply) → https://crypto.com/app/AWD
+- **KuCoin** — referral code **gemhunter**: new-user rewards → https://www.kucoin.com/r/rf/gemhunter
+- **Bitunix** — referral code **bonus**: new-user rewards → https://www.bitunix.com/register?inviteCode=bonus
+- **Havnby** (havnby.com) & **NovaPads** (novapads.com) — discount code **AWD**: 10% off Tesla camping mattresses
+
+*These are my referral/discount codes; I may receive a reward. Terms are set by each platform and can change.*
