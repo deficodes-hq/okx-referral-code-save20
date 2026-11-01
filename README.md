@@ -125,6 +125,7 @@ Not financial advice. Crypto assets are volatile. This repo is an independent re
 - **Crypto.com** — referral code **AWD**: sign-up reward of up to $75 in CRO (conditions apply) → https://crypto.com/app/AWD
 - **KuCoin** — referral code **gemhunter**: new-user rewards → https://www.kucoin.com/r/rf/gemhunter
 - **Bitunix** — referral code **bonus**: new-user rewards → https://www.bitunix.com/register?inviteCode=bonus
-- **Havnby** (havnby.com) & **NovaPads** (novapads.com) — discount code **AWD**: 10% off Tesla camping mattresses
+- **Havnby** — discount code **AWD**: 10% off Tesla camping mattresses → https://havnby.com
+- **NovaPads** — discount code **AWD**: 10% off Tesla camping mattresses → https://novapads.com
 
 *These are my referral/discount codes; I may receive a reward. Terms are set by each platform and can change.*
