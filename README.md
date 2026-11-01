@@ -37,18 +37,18 @@ OKX referral code **`SAVE20`** gives new users a **20% discount on eligible trad
 
 Standard spot pairs, from OKX's public fee schedule (checked Nov 2026). Discounted columns are arithmetic on the base rate; your account page shows the rate you're actually charged.
 
-| Tier | Requirement (assets **or** 30-day volume) | Maker | Taker | Maker âˆ’20% | Taker âˆ’20% |
+| Tier | Requirement (assets **or** 30-day volume) | Maker | Taker | Maker −20% | Taker −20% |
 |---|---|---|---|---|---|
 | Regular | < $100k / < $1M | 0.0800% | 0.1000% | 0.0640% | 0.0800% |
-| VIP 1 | â‰¥ $100k / â‰¥ $1M | 0.0675% | 0.0800% | 0.0540% | 0.0640% |
-| VIP 2 | â‰¥ $200k / â‰¥ $5M | 0.0600% | 0.0700% | 0.0480% | 0.0560% |
+| VIP 1 | ≥ $100k / ≥ $1M | 0.0675% | 0.0800% | 0.0540% | 0.0640% |
+| VIP 2 | ≥ $200k / ≥ $5M | 0.0600% | 0.0700% | 0.0480% | 0.0560% |
 
 > EEA note: OKX publishes separate spot rates for EEA accounts depending on whether a derivatives (X-Perps) account has been opened. Check the schedule for your region.
 
 ## Savings calculator
 
 ```text
-monthly_savings = monthly_volume Ã— base_fee_rate Ã— 0.20
+monthly_savings = monthly_volume × base_fee_rate × 0.20
 ```
 
 | Monthly taker volume | Fee @ 0.10% | Fee with SAVE20 | Saved / month | Saved / year |
@@ -67,7 +67,7 @@ monthly_savings = monthly_volume Ã— base_fee_rate Ã— 0.20
 3. Check that the referral/invite field shows `SAVE20` (type it if not).
 4. Verify your contact details and complete KYC.
 5. Enable 2FA (authenticator app recommended).
-6. Trade â€” the discount applies to eligible fees.
+6. Trade — the discount applies to eligible fees.
 
 ## Eligibility notes
 
@@ -80,7 +80,7 @@ monthly_savings = monthly_volume Ã— base_fee_rate Ã— 0.20
 
 <details><summary><b>What is the OKX referral code in 2026?</b></summary>
 
-`SAVE20` â€” 20% off eligible trading fees for new users.
+`SAVE20` — 20% off eligible trading fees for new users.
 </details>
 
 <details><summary><b>Is SAVE20 free to use?</b></summary>
@@ -100,7 +100,7 @@ The discount applies to eligible fees at your tier. As your tier improves, your 
 
 <details><summary><b>Why is my fee different from this table?</b></summary>
 
-Your tier, maker vs. taker, the trading pair's fee group and your region all affect the rate. OKX's own page under *Assets â†’ My trading fees* is the source of truth.
+Your tier, maker vs. taker, the trading pair's fee group and your region all affect the rate. OKX's own page under *Assets → My trading fees* is the source of truth.
 </details>
 
 ## Changelog
