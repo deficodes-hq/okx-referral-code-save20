@@ -127,5 +127,8 @@ Not financial advice. Crypto assets are volatile. This repo is an independent re
 - **Bitunix** — referral code **bonus**: new-user rewards → https://www.bitunix.com/register?inviteCode=bonus
 - **Havnby** — discount code **AWD**: 10% off Tesla camping mattresses → https://havnby.com
 - **NovaPads** — discount code **AWD**: 10% off Tesla camping mattresses → https://novapads.com
+- **pump.fun** — referral code **VIP50**: referral program for new pump.fun app users (18+, terms and eligible countries apply) → https://pump.fun/join/VIP50
+- **Moon** — referral code **MAX**: referral sign-up link for Moon.com betting markets (18+, bet responsibly) → https://moon.com/?c=MAX
+- **Shuffle** — referral code **ACES**: referral code at sign-up on Shuffle.com (18+, gamble responsibly, not available in all countries) → https://shuffle.com/?r=ACES
 
 *These are my referral/discount codes; I may receive a reward. Terms are set by each platform and can change.*
